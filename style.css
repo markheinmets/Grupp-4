@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Lexend Mega;
+    src: url(https://fonts.google.com/specimen/Lexend+Mega);
+}
+*{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    color: white;
+
+}
+.first{
+    background-image: url(https://cdn.theatlantic.com/thumbor/4xedENNyVDQrfV_-6NrWA2wnfJo=/0x0:1600x900/1600x900/media/img/mt/2018/07/TDK/original.jpg);
+    
+}
