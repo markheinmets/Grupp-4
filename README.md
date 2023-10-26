@@ -31,6 +31,8 @@ Slack
 * Koodiga kerglet alustamine
 
 # Päev 2
+![image](https://github.com/markheinmets/Grupp-4/assets/98657402/b53426ac-65aa-4703-baa5-2d07d0b147f9)
+
 * Figma lõpetamine
 * Koodi jätkamine
 * Readme loomine
