@@ -1,0 +1,52 @@
+@font-face{
+    font-family: "Lexend Mega," sans-serif;
+    src: url(https://fonts.google.com/specimen/Lexend+Mega);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+    font-family: "Lexend Mega", sans-serif;
+}
+
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.first{
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header{
+    background-image: url(https://user-images.githubusercontent.com/144336453/277989796-fc9f7185-cb58-449d-933c-8b4d33e893e6.jpeg);
+}
+
+#rest{
+    background-color: black;
+}
+
+a{
+    background-color: transparent;
+    float: right;
+    margin: 20px;
+    text-decoration: none;
+    color: black;
+    font-family: "Lexend Mega", sans-serif;
+    font-size: 20px;
+}
+
+h1{
+    background-color: transparent;
+    color: white;
+    font-family: "Lexend Mega", sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+    padding-bottom: 150px;
+    letter-spacing: 20px;
+}
