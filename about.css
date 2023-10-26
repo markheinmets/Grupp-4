@@ -7,11 +7,10 @@
   margin: 0;
   color: white;
   font-family: "Lexend Mega", sans-serif;
-  
 }
-.navbar{
-    display: flex;
-    justify-content: flex-end;
+.navbar {
+  display: flex;
+  justify-content: flex-end;
 }
 .first {
   height: 600px;
@@ -21,11 +20,11 @@
   align-items: center;
 }
 .header {
-      background-image: url(pilt/image\ 1.png);
-      z-index: 3;
+  background-image: url(pilt/image\ 1.png);
+  z-index: 3;
 }
-#rest{
-    background-color: black;
+#rest {
+  background-color: black;
 }
 
 a {
@@ -37,11 +36,11 @@ a {
   font-family: "Lexend Mega", sans-serif;
   font-size: 20px;
 }
-a:hover{
-    color: white;
+a:hover {
+  color: white;
 }
 
- h1 {
+h1 {
   background-color: transparent;
   color: black;
   font-family: "Lexend Mega", sans-serif;
@@ -49,8 +48,8 @@ a:hover{
   font-weight: 400;
   padding-bottom: 150px;
   letter-spacing: 20px;
-} 
-.info{
+}
+.info {
   text-align: left;
   padding-top: 50px;
   padding-left: 200px;
@@ -58,34 +57,74 @@ a:hover{
   max-width: 65ch;
   margin-inline: auto;
 }
-.plot{
+.plot {
   text-align: left;
   padding-top: 50px;
   padding-left: 200px;
   padding-right: 250px;
   max-width: 65ch;
   margin-inline: auto;
-  
 }
-p{
-  color: #FFF;
+p {
+  color: #fff;
   font-family: "Lexend Mega", sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
 }
-.second{
+.second {
   display: flex;
   justify-content: center;
   padding-top: 100px;
 }
-h3{
+h3 {
   padding-top: 15px;
   text-align: center;
   max-width: 65ch;
   margin-inline: auto;
 }
-.bottom{
+.bottom {
   padding-bottom: 40px;
+}
+@media only screen and (max-width: 600px) {
+  .info {
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+
+
+  }
+ p{
+    line-height: 150%;
+ }
+  h1 {
+    background-color: transparent;
+    color: white;
+    font-family: "Lexend Mega", sans-serif;
+    font-size: 60px;
+    font-weight: 400;
+    padding-bottom: 150px;
+    letter-spacing: 20px;
+  }
+  .header {
+    background-image: url(pilt/image\ 3.png);
+    z-index: 3;
+  }
+  .plot {
+    padding: 30px;
+  }
+  .bottom {
+    padding: 20px;
+  }
+  .navbar {
+    justify-content: space-between;
+  }
+  .second{
+    padding-top: 50px;
+  }
+  h3{
+    line-height: 150%;
+  }
 }
