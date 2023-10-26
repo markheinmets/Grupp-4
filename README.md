@@ -27,5 +27,11 @@ Slack
 * Filmi valimine
 * Ülesannete jagamine
 * Algse sketchi tegemine
-Figma tegemine
+* Figma tegemine
+* Koodiga kerglet alustamine
+
+# Päev 2
+* Figma lõpetamine
+* Koodi jätkamine
+* Readme loomine
 
