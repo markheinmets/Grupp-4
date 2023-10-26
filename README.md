@@ -23,9 +23,9 @@ Slack
 
 
 # Päev 1
-1 Tutvumine
-2 Filmi valimine
-3 Ülesannete jagamine
-4 Algse sketchi tegemine
+* Tutvumine
+* Filmi valimine
+* Ülesannete jagamine
+* Algse sketchi tegemine
 Figma tegemine
 
