@@ -29,6 +29,8 @@ Slack
 * Algse sketchi tegemine
 * Figma tegemine
 * Koodiga kergelt alustamine
+![image](https://github.com/markheinmets/Grupp-4/assets/92147308/bb129193-727a-42fe-8088-62913ea3991d)
+
 
 # Päev 2
 ![image](https://github.com/markheinmets/Grupp-4/assets/98657402/b53426ac-65aa-4703-baa5-2d07d0b147f9)
@@ -37,3 +39,21 @@ Slack
 * Koodiga jätkamine
 * Readme loomine
 
+# Päev 3
+
+
+
+## Tegevuste jaotus 
+- Peale meeskonnaga tutvumist panime töösse suhtluskanali -
+- Töökorralduse planeerimine - kõik koos
+- Figma disain ja prototüüp -
+- Tööde juhendamine - Airi ja Gendro
+- Tootearendus -
+- README.md -
+
+## Kasutatud tarkvara:
+* **Slack** Suhtluskanal
+* **Github** Projekti haldamine
+* **Visual Studio Code** Programmeerimine
+* **Kasutatud keeled** HTML, CSS
+* **Figma** Disain
