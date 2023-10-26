@@ -24,6 +24,7 @@ Teha lehekülg filmi The Dark Knight huvilistele.
 * Algse sketchi tegemine
 * Figma tegemine
 * Koodiga kergelt alustamine
+
 ![image](https://github.com/markheinmets/Grupp-4/assets/92147308/bb129193-727a-42fe-8088-62913ea3991d)
 
 
