@@ -56,21 +56,21 @@ Teha lehekülg filmi The Dark Knight huvilistele.
 
 ## Küsimused tiimiliikmetele:
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
-   *
-   *
-   *
-   *
-   *
-   *
+   * Airi - Ei, ma ei tohtinud.
+   * 
+   * 
+   * 
+   * 
+   * 
 2. Üks pehme oskus, mida õppisin/endas arendasin.
-   *
+   * Airi - Meeskonnatöö ja suhtlemine.
    *
    *
    *
    *
    *
 3. Üks tehniline oskus, mida õppisin/endas arendasin.
-   *
+   * 
    *
    *
    *
