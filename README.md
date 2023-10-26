@@ -57,3 +57,26 @@ Slack
 * **Visual Studio Code** Programmeerimine
 * **Kasutatud keeled** HTML, CSS
 * **Figma** Disain
+
+## Küsimused tiimiliikmetele:
+1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
+   *
+   *
+   *
+   *
+   *
+   *
+2. Üks pehme oskus, mida õppisin/endas arendasin.
+   *
+   *
+   *
+   *
+   *
+   *
+3. Üks tehniline oskus, mida õppisin/endas arendasin.
+   *
+   *
+   *
+   *
+   *
+   *
