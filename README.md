@@ -17,11 +17,6 @@ Teha lehekülg filmi The Dark Knight huvilistele.
 
 
 
-# Kommunikatsioon
-
-Slack
-
-
 # Päev 1
 * Tutvumine
 * Filmi valimine
