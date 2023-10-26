@@ -1,4 +1,4 @@
-# Grupp-4 - The Dark Knight
+# Grupp 4 - The Dark Knight
 
 25 - 27 oktoober 2023
 
