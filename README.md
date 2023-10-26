@@ -64,15 +64,15 @@ Teha lehekülg filmi The Dark Knight huvilistele.
    * 
 2. Üks pehme oskus, mida õppisin/endas arendasin.
    * Airi - Meeskonnatöö ja suhtlemine.
-   *
-   *
-   *
-   *
-   *
-3. Üks tehniline oskus, mida õppisin/endas arendasin.
    * 
-   *
-   *
-   *
-   *
-   *
+   * 
+   * 
+   * 
+   * 
+3. Üks tehniline oskus, mida õppisin/endas arendasin.
+   * Airi -
+   * 
+   * 
+   * 
+   * 
+   * 
