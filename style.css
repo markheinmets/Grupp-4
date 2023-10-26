@@ -1,15 +1,48 @@
 @font-face {
-    font-family: Lexend Mega;
-    src: url(https://fonts.google.com/specimen/Lexend+Mega);
+  font-family: "Lexend Mega", sans-serif;
+  src: url(https://fonts.google.com/specimen/Lexend+Mega);
 }
-*{
-    padding: 0;
-    margin: 0;
+* {
+  padding: 0;
+  margin: 0;
+  color: white;
+  font-family: "Lexend Mega", sans-serif;
+}
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+}
+.first {
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.header {
+      background-image: url(pilt/image\ 1.png);
+      z-index: 3;
+}
+#rest{
     background-color: black;
-    color: white;
+}
 
+a {
+  background-color: transparent;
+  float: right;
+  margin: 20px;
+  text-decoration: none;
+  color: black;
+  font-family: "Lexend Mega", sans-serif;
+  font-size: 20px;
 }
-.first{
-    background-image: url(https://cdn.theatlantic.com/thumbor/4xedENNyVDQrfV_-6NrWA2wnfJo=/0x0:1600x900/1600x900/media/img/mt/2018/07/TDK/original.jpg);
-    
-}
+
+ h1 {
+  background-color: transparent;
+  color: black;
+  font-family: "Lexend Mega", sans-serif;
+  font-size: 96px;
+  font-weight: 400;
+  padding-bottom: 150px;
+  letter-spacing: 20px;
+} 
