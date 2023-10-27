@@ -58,6 +58,8 @@ Teha lehekülg filmi The Dark Knight huvilistele.
 - Suhtluskanali ülesseadmine - Maria
 - Töökorralduse planeerimine - kõik koos
 - Sketchid - Maria
+- Info kogumine - Maria
+- Ikoonide ja piltide kogumine - Jürgen ja Juhan
 - Figma disain ja prototüüp - Jürgen ja Juhan
 - Githubi ülesseadmine - Jürgen-Mark
 - Koodi kirjutamine - Maria ja Jürgen-Mark
