@@ -3,8 +3,8 @@
 25 - 27 oktoober 2023
 
 # Lingid
-Figma - [Link](https://www.figma.com/file/Kwk7bkDrHv9pB6saqIEbdd/The-Dark-Knight?type=design&node-id=0-1&mode=design&t=WMd09fI1eixsB1It-0)
-Loodud veebileht: ...
+* Figma - [Link](https://www.figma.com/file/Kwk7bkDrHv9pB6saqIEbdd/The-Dark-Knight?type=design&node-id=0-1&mode=design&t=WMd09fI1eixsB1It-0)
+* Loodud veebileht: ...
 
 # Projekti eesmärk
 Teha lehekülg filmi The Dark Knight huvilistele.
@@ -19,25 +19,39 @@ Teha lehekülg filmi The Dark Knight huvilistele.
 
 
 # Päev 1
-* Tutvumine
+* Meeskonna tutvumine
 * Filmi valimine
 * Ülesannete jagamine
+* ** Airi ja Gendro - projektijuhid, tehnilised juhendajad
+* ** Jürgen ja Juhan - disainerid
+* ** Jürgen-Mark ja Maria - koodi kirjutamine
 * Algse sketchi tegemine
-* Figma tegemine
-* Koodiga kergelt alustamine
+* Disaini loomine Figmas
+* Koodiga alustamine
 
 ![image](https://github.com/markheinmets/Grupp-4/assets/92147308/bb129193-727a-42fe-8088-62913ea3991d)
 
 
 # Päev 2
+* Lehe struktuuri uus / selgem sketch
+![2  sketch](https://github.com/markheinmets/Grupp-4/assets/144336453/eace376b-00ee-4da6-9f66-c11b3df887bf)
+
+* Disaini lõpetamine
+* Koodiga jätkamine
+* Readme loomine  
 ![image](https://github.com/markheinmets/Grupp-4/assets/98657402/b53426ac-65aa-4703-baa5-2d07d0b147f9)
 
-* Figma lõpetamine
-* Koodiga jätkamine
-* Readme loomine
+* Mobiilivaate sketchi loomine ja
+![IMG_6453](https://github.com/markheinmets/Grupp-4/assets/144336453/7bcd2580-237c-42b3-b63e-fdd2fe60334d)
 
 # Päev 3
+* Esilehe loomise lõpetamine
+* Mobiilivaate loomise lõpetamine
+* Serverisse ülespanek
+* Kiirustesti tegemine
+![IMG_6456](https://github.com/markheinmets/Grupp-4/assets/144336453/56f23978-0d26-418d-96cc-394f076f333c)
 
+* Lehe kiirendamiseks video allalaadimine
 
 
 ## Tegevuste jaotus 
