@@ -55,7 +55,7 @@ h1{
     font-size: 36px;
     font-weight: 400;
     padding-bottom: 450px;
-    letter-spacing: 20px;
+    letter-spacing: 15px;
 }
 
 .video{
@@ -65,10 +65,54 @@ h1{
 .second{
     display: flex;
     justify-content: center;
-    padding-top: 100px;
+    padding-top: 50px;
     font-family: "Lexend Mega", sans-serif;
     font-size: 28px;
     letter-spacing: 8px;
+    margin-bottom: 20px;
+}
+
+.icons{
+    display: flex;
+    justify-content: center;
+    height: 80px;
+    padding-bottom: 40px;
+    gap: 60px;
 }
 
 .short-description{
+    text-align: center;
+    margin-inline: auto;
+    justify-content: center;
+    display: flex;
+    padding: 40px 0px;
+    font-family: "Lexend Mega", sans-serif;
+    letter-spacing: 1px;
+    max-width: 65ch;
+
+}
+p{
+    
+        color: #fff;
+        font-family: "Lexend Mega", sans-serif;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+      }
+
+.second {
+    font-size: 18px;
+    letter-spacing: 4px;
+  }
+
+  .icons {
+    height: 80px;
+    padding-bottom: 40px;
+    gap: 30px;
+  }
+
+img.icons{
+    margin: 0;
+    padding: 0;
+}
