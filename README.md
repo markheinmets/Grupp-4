@@ -57,22 +57,22 @@ Teha lehekülg filmi The Dark Knight huvilistele.
 ## Küsimused tiimiliikmetele:
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
    * Airi - Ei, ma ei tohtinud.
-   * 
-   * 
-   * 
-   * 
-   * 
+   * Juhan - Ei.
+   * Jürgen - jah oleks rohkem tahtnud tegeleda koodimisega.
+   * Jürgen-Mark - Ei
+   * Maria - Ei
+   * Gendro - Ei
 2. Üks pehme oskus, mida õppisin/endas arendasin.
    * Airi - Meeskonnatöö ja suhtlemine.
-   * 
-   * 
-   * 
-   * 
-   * 
+   * Juhan - Meeskonnatöö.
+   * Jürgen - Kohvimasina kasutamine
+   * Jürgen-Mark - Tahaks arvata meeskonnatööd
+   * Maria - fookuse hoidmist enda konkreetsel ülesandel.
+   * Gendro - Õppisin meeskonnatööd ja juhendamist
 3. Üks tehniline oskus, mida õppisin/endas arendasin.
    * Airi -
-   * 
-   * 
-   * 
-   * 
-   * 
+   * Juhan - Õppisin figmat kasutama.
+   * Jürgen - Õppisin kuidas kasutada figmat ja grupina kasutada giti.
+   * Jürgen-Mark - Õppisin figmat ja giti
+   * Maria - veidi koodi kirjutamist (html/css)
+   * Gendro - Tuletasin vanilla css meelde.
