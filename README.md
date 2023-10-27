@@ -4,7 +4,9 @@
 
 # Lingid
 * Figma - [Link](https://www.figma.com/file/Kwk7bkDrHv9pB6saqIEbdd/The-Dark-Knight?type=design&node-id=0-1&mode=design&t=WMd09fI1eixsB1It-0)
-* Loodud veebileht: ...
+  
+* Loodud veebileht: [...](https://ta23heinmets.itmajakas.ee/Grupp-4/index.html)
+  
 
 # Projekti eesmärk
 Teha lehekülg filmi The Dark Knight huvilistele.
@@ -22,9 +24,6 @@ Teha lehekülg filmi The Dark Knight huvilistele.
 * Meeskonna tutvumine
 * Filmi valimine
 * Ülesannete jagamine
-* ** Airi ja Gendro - projektijuhid, tehnilised juhendajad
-* ** Jürgen ja Juhan - disainerid
-* ** Jürgen-Mark ja Maria - koodi kirjutamine
 * Algse sketchi tegemine
 * Disaini loomine Figmas
 * Koodiga alustamine
@@ -34,7 +33,7 @@ Teha lehekülg filmi The Dark Knight huvilistele.
 
 # Päev 2
 * Lehe struktuuri uus / selgem sketch
-![2  sketch](https://github.com/markheinmets/Grupp-4/assets/144336453/eace376b-00ee-4da6-9f66-c11b3df887bf)
+* ![2  sketch](https://github.com/markheinmets/Grupp-4/assets/144336453/eace376b-00ee-4da6-9f66-c11b3df887bf)
 
 * Disaini lõpetamine
 * Koodiga jätkamine
@@ -49,18 +48,22 @@ Teha lehekülg filmi The Dark Knight huvilistele.
 * Mobiilivaate loomise lõpetamine
 * Serverisse ülespanek
 * Kiirustesti tegemine
-![IMG_6456](https://github.com/markheinmets/Grupp-4/assets/144336453/56f23978-0d26-418d-96cc-394f076f333c)
-
-* Lehe kiirendamiseks video allalaadimine
+* Parenduste läbiviimine paremateks tulemusteks (kiirus, SEO, performance)
+* Uued kiirustestid
+* ![IMG_6458](https://github.com/markheinmets/Grupp-4/assets/144336453/bfb7c36a-6f49-4b66-941e-eea3b1640ac3)
+* Valmis lehe esitluseks
 
 
 ## Tegevuste jaotus 
-- Peale meeskonnaga tutvumist panime töösse suhtluskanali -
+- Suhtluskanali ülesseadmine - Maria
 - Töökorralduse planeerimine - kõik koos
-- Figma disain ja prototüüp -
+- Sketchid - Maria
+- Figma disain ja prototüüp - Jürgen ja Juhan
+- Githubi ülesseadmine - Jürgen-Mark
+- Koodi kirjutamine - Maria ja Jürgen-Mark
+- README.md - Airi, Juhan, Maria
+- Serverisse laadimine, kiirustestid - Jürgen-Mark
 - Tööde juhendamine - Airi ja Gendro
-- Tootearendus -
-- README.md -
 
 ## Kasutatud tarkvara:
 * **Slack** Suhtluskanal
@@ -68,6 +71,8 @@ Teha lehekülg filmi The Dark Knight huvilistele.
 * **Visual Studio Code** Programmeerimine
 * **Kasutatud keeled** HTML, CSS
 * **Figma** Disain
+* **Tinypanda** Pildifailide kompressimine
+
 
 ## Küsimused tiimiliikmetele:
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
